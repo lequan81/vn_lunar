@@ -1,0 +1,18 @@
+###########################################
+# Syntax Coloring Map
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+vn_lunar	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+get_lunar_dd		KEYWORD2
+get_lunar_mm		KEYWORD2
+get_lunar_yy		KEYWORD2
+convertSolar2Lunar		KEYWORD2
+
